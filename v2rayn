@@ -1,9 +1,16 @@
-vless://4073f22b-85c2-4e99-ec64-5fca8a5b14d8@d7ng4qh2djmbi.cloudfront.net:443?security=tls&type=ws&sni=d7ng4qh2djmbi.cloudfront.net&path=/700gvl&encryption=none&headerType=none#台湾节点
-vless://4073f22b-85c2-4e99-ec64-5fca8a5b14d8@d204gjx2pucc1o.cloudfront.net:443?security=tls&type=ws&sni=d204gjx2pucc1o.cloudfront.net&path=/700gvl&encryption=none&headerType=none#日本节点
-vless://4073f22b-85c2-4e99-ec64-5fca8a5b14d8@d3sbn7ze4r04dx.cloudfront.net:443?security=tls&type=ws&sni=d3sbn7ze4r04dx.cloudfront.net&path=/700gvl&encryption=none&headerType=none#新加坡节点
-vless://4073f22b-85c2-4e99-ec64-5fca8a5b14d8@de-xr.net-ze.com:443?security=tls&type=ws&sni=de-xr.net-ze.com&path=/700gvl&encryption=none&headerType=none#德国节点
-vless://4073f22b-85c2-4e99-ec64-5fca8a5b14d8@uk-xr.net-ze.com:443?security=tls&type=ws&sni=uk-xr.net-ze.com&path=/700gvl&encryption=none&headerType=none#英国节点
-vless://4073f22b-85c2-4e99-ec64-5fca8a5b14d8@nl-xr.net-ze.com:443?security=tls&type=ws&sni=nl-xr.net-ze.com&path=/700gvl&encryption=none&headerType=none#荷兰节点
-vless://4073f22b-85c2-4e99-ec64-5fca8a5b14d8@us-xr.net-ze.com:443?security=tls&type=ws&sni=us-xr.net-ze.com&path=/700gvl&encryption=none&headerType=none#美国节点
-vless://77a571fb-4fd2-4b37-8596-8b7d9728bb5c@www.visa.com.sg:8880?encryption=none&security=none&type=ws&host=fancy-silence-5d0a.l17751261024.workers.dev&path=/cf#Cloudflare节点
+vless://4073f22b-85c2-4e99-ec64-5fca8a5b14d8@d7ng4qh2djmbi.cloudfront.net:443?security=tls&type=ws&sni=d7ng4qh2djmbi.cloudfront.net&path=/700gvl&encryption=none&headerType=none#主用 台湾节点
+vless://4073f22b-85c2-4e99-ec64-5fca8a5b14d8@d204gjx2pucc1o.cloudfront.net:443?security=tls&type=ws&sni=d204gjx2pucc1o.cloudfront.net&path=/700gvl&encryption=none&headerType=none#主用 日本节点
+vless://4073f22b-85c2-4e99-ec64-5fca8a5b14d8@d3sbn7ze4r04dx.cloudfront.net:443?security=tls&type=ws&sni=d3sbn7ze4r04dx.cloudfront.net&path=/700gvl&encryption=none&headerType=none#主用 新加坡节点
+vless://4073f22b-85c2-4e99-ec64-5fca8a5b14d8@de-xr.net-ze.com:443?security=tls&type=ws&sni=de-xr.net-ze.com&path=/700gvl&encryption=none&headerType=none#主用 德国节点
+vless://4073f22b-85c2-4e99-ec64-5fca8a5b14d8@uk-xr.net-ze.com:443?security=tls&type=ws&sni=uk-xr.net-ze.com&path=/700gvl&encryption=none&headerType=none#主用 英国节点
+vless://4073f22b-85c2-4e99-ec64-5fca8a5b14d8@nl-xr.net-ze.com:443?security=tls&type=ws&sni=nl-xr.net-ze.com&path=/700gvl&encryption=none&headerType=none#主用 荷兰节点
+vless://4073f22b-85c2-4e99-ec64-5fca8a5b14d8@us-xr.net-ze.com:443?security=tls&type=ws&sni=us-xr.net-ze.com&path=/700gvl&encryption=none&headerType=none#主用 美国节点
+vless://77a571fb-4fd2-4b37-8596-8b7d9728bb5c@www.visa.com.sg:8880?encryption=none&security=none&type=ws&host=fancy-silence-5d0a.l17751261024.workers.dev&path=/cf#主用 Cloudflare节点
+vless://482c7703-2799-4f53-8209-d47ce75360b3@walker-daniel.planlan.site:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=walker-daniel.planlan.site&alpn=h2%2Chttp%2F1.1&fp=chrome&type=tcp&headerType=none#其他
+vless://bd69865f-c7d3-4730-a406-b47bda08778f@crystal-hermiston.planslan.com:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=crystal-hermiston.planslan.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=tcp&headerType=none#其他
+vless://bcc44953-285f-4b2d-88bb-ea04b61e855c@gust-greenfelder.planlen.com:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=gust-greenfelder.planlen.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=tcp&headerType=none#其他
+vless://8ad9bcf1-feb5-4c7e-bc84-7ff401fa3ec7@deondre-jakubowski.planlan.site:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=deondre-jakubowski.planlan.site&alpn=h2%2Chttp%2F1.1&fp=chrome&type=tcp&headerType=none#其他
+vless://752925a2-51aa-4ae8-9092-01ce492960dc@liza-java.planlan.site:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=liza-java.planlan.site&alpn=h2%2Chttp%2F1.1&fp=chrome&type=tcp&headerType=none#其他
+vless://6cd1e156-df47-4038-a48b-1fcb21307dee@bryon-longmont.planlan.site:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=bryon-longmont.planlan.site&alpn=h2%2Chttp%2F1.1&fp=chrome&type=tcp&headerType=none#其他
+vless://ef57ac5a-fcd3-4df6-ad52-fb50ec7fc958@nash-torphy.planlands.com:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=nash-torphy.planlands.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=tcp&headerType=none#其他
 
