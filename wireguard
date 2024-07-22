@@ -1,10 +1,11 @@
-#更新时间 20240702
+#更新时间 20240727
 [Interface]
-PrivateKey = eE8g+o6t2llb25d/D0AVUPhNx/HIYeEQcVtJm3F9XUM=
+PrivateKey = gLvKqaha7K56j79VfxXxxn2wXKFOjiwVWfk1n7HgBEk=
 Address = 172.16.0.2/32
 DNS = 8.8.8.8
 
 [Peer]
-PublicKey = qBUTSloO8PKGUl0ZrfTx1AZwwCwJRB+9kGD0hquFqVQ=
+PublicKey = 11ScmFnWCAFMI6tdc6/wO+P7biBc/5foA7WayNXxSG0=
 AllowedIPs = 0.0.0.0/0, ::/0
-Endpoint = [2a02:6ea0:e00a:2242::10]:443
+Endpoint = [2a0d:5600:6:ad20::10]:443
+
