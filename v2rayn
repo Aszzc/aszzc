@@ -1,10 +1,10 @@
-vless://4073f22b-85c2-4e99-ec64-5fca8a5b14d8@d7ng4qh2djmbi.cloudfront.net:443?security=tls&type=ws&sni=d7ng4qh2djmbi.cloudfront.net&path=/700gvl&encryption=none&headerType=none#主用 台湾节点
-vless://4073f22b-85c2-4e99-ec64-5fca8a5b14d8@d204gjx2pucc1o.cloudfront.net:443?security=tls&type=ws&sni=d204gjx2pucc1o.cloudfront.net&path=/700gvl&encryption=none&headerType=none#主用 日本节点
-vless://4073f22b-85c2-4e99-ec64-5fca8a5b14d8@d3sbn7ze4r04dx.cloudfront.net:443?security=tls&type=ws&sni=d3sbn7ze4r04dx.cloudfront.net&path=/700gvl&encryption=none&headerType=none#主用 新加坡节点
-vless://4073f22b-85c2-4e99-ec64-5fca8a5b14d8@de-xr.net-ze.com:443?security=tls&type=ws&sni=de-xr.net-ze.com&path=/700gvl&encryption=none&headerType=none#主用 德国节点
-vless://4073f22b-85c2-4e99-ec64-5fca8a5b14d8@uk-xr.net-ze.com:443?security=tls&type=ws&sni=uk-xr.net-ze.com&path=/700gvl&encryption=none&headerType=none#主用 英国节点
-vless://4073f22b-85c2-4e99-ec64-5fca8a5b14d8@nl-xr.net-ze.com:443?security=tls&type=ws&sni=nl-xr.net-ze.com&path=/700gvl&encryption=none&headerType=none#主用 荷兰节点
-vless://4073f22b-85c2-4e99-ec64-5fca8a5b14d8@us-xr.net-ze.com:443?security=tls&type=ws&sni=us-xr.net-ze.com&path=/700gvl&encryption=none&headerType=none#主用 美国节点
+vless://F19FF487-79DB-4458-990E-201639ED3A83@d7ng4qh2djmbi.cloudfront.net:443?security=tls&type=ws&sni=d7ng4qh2djmbi.cloudfront.net&path=/700gvl&encryption=none&headerType=none#主用 台湾节点
+vless://F19FF487-79DB-4458-990E-201639ED3A83@d204gjx2pucc1o.cloudfront.net:443?security=tls&type=ws&sni=d204gjx2pucc1o.cloudfront.net&path=/700gvl&encryption=none&headerType=none#主用 日本节点
+vless://F19FF487-79DB-4458-990E-201639ED3A83@d3sbn7ze4r04dx.cloudfront.net:443?security=tls&type=ws&sni=d3sbn7ze4r04dx.cloudfront.net&path=/700gvl&encryption=none&headerType=none#主用 新加坡节点
+vless://F19FF487-79DB-4458-990E-201639ED3A83@de-xr.net-ze.com:443?security=tls&type=ws&sni=de-xr.net-ze.com&path=/700gvl&encryption=none&headerType=none#主用 德国节点
+vless://F19FF487-79DB-4458-990E-201639ED3A83@uk-xr.net-ze.com:443?security=tls&type=ws&sni=uk-xr.net-ze.com&path=/700gvl&encryption=none&headerType=none#主用 英国节点
+vless://F19FF487-79DB-4458-990E-201639ED3A83@nl-xr.net-ze.com:443?security=tls&type=ws&sni=nl-xr.net-ze.com&path=/700gvl&encryption=none&headerType=none#主用 荷兰节点
+vless://F19FF487-79DB-4458-990E-201639ED3A83@us-xr.net-ze.com:443?security=tls&type=ws&sni=us-xr.net-ze.com&path=/700gvl&encryption=none&headerType=none#主用 美国节点
 vless://77a571fb-4fd2-4b37-8596-8b7d9728bb5c@www.visa.com.sg:8880?encryption=none&security=none&type=ws&host=fancy-silence-5d0a.l17751261024.workers.dev&path=/cf#主用 Cloudflare节点
 vless://482c7703-2799-4f53-8209-d47ce75360b3@walker-daniel.planlan.site:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=walker-daniel.planlan.site&alpn=h2%2Chttp%2F1.1&fp=chrome&type=tcp&headerType=none#其他
 vless://bd69865f-c7d3-4730-a406-b47bda08778f@crystal-hermiston.planslan.com:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=crystal-hermiston.planslan.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=tcp&headerType=none#其他
